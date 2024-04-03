@@ -106,5 +106,5 @@ social:
 highlight_name: true
 ---
 
-Gao Er Jian is a graduate student majoring in Computer Technology at North China University of Science and Technology. His research interests include digital image processing, machine learning, deep learning, and Java development.
+Erjian Gao is a master's student majoring in computer technology at North China University of Science and Technology. He mainly conducts research in various aspects of image processing, including tasks such as image classification and object detection. He also possesses outstanding problem-solving abilities and a strong interest in the practical application of technology.
 {style="text-align: justify;"}
